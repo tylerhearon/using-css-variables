@@ -6,12 +6,11 @@
 }
 
 html {
-  font-family: var(font-primary);
+  font-family: var(--font-primary);
 }
 
 .card {
   max-width: 24em;
-
   border: 3px solid var(--color-primary);
   border-radius: var(--border-radius);
 }
